@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arte en el Metro de Santiago</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Arte en el Metro de Santiago</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="estaciones.html">Estaciones</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Bienvenidos al Arte del Metro</h2>
+            <p>Explora la rica y variada colección de arte que embellece las estaciones del Metro de Santiago.</p>
+        </section>
+
+        <section>
+            <h3>Descubre las Obras</h3>
+            <p>Conoce las estaciones y las piezas que las convierten en verdaderas galerías de arte urbano.</p>
+            <a href="estaciones.html" class="button">Ver Estaciones</a>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Arte en el Metro de Santiago</p>
+        <p id="contacto">Contacto: info@metro-arte.cl</p>
+    </footer>
+</body>
+</html>
